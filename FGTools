@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------
+                           #EDITOR 0.2.3
+----------------------------------------------------------------------------
+To have the editor you have to write:  FGTools_Internal.Loader.demo = false;
+And to deactivate it you must change "false" to "true"
+Editor options:
+-Editor (Open the Editor)
+-Cube (Spawn a Cube)
+-Fall Guy (Spawn a Fall Guy After placing a Spawnpoint)
+-Spawnpoint (Place a Spawnpoint)
+-Conveyor (Spawn a Conveyor)
+-Save (Save the Editor Changes)
+-Load (Load a Editor Level)
+-Bar (Place a Bar)
+-Lily (Place a Lily)
+-Death (Spawn a Death Cube)
+-Slime (Spawn Slime decoration)
+-Create FFCube (Spawn a Fall Factory logo Cube)
+-Circle (Spawn a Circle) | (With the number you can modify the cube
+-Create Checkpoint (Spawn a Green Checkpoint)
+----------------------------------------------------------------------------
+                           #DEMO 0.2.3
+----------------------------------------------------------------------------
+To have the demo you have to write:  FGTools_Internal.Loader.demo = true;
+And to activate the editor you must change "true" to "false"
+Demo options:
+-Start Level (Start "TestLevelDemo" File)
+-Load Level (Load "TestLevelDemo" File)
+*Do not click on Load and Start very fast because it may get stuck
